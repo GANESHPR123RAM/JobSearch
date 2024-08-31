@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { Register } from './pages//Register';
 import { Login } from './pages/Login';
-import { Logout } from './pages/Logout';
+import { Logout } from './pages/Signout';
 import { Navbar } from './pages/layout/Navbar'
 import { Footer } from './pages/layout/Footer'
 import { JobList } from './pages/JobList';
