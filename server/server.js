@@ -8,7 +8,7 @@ const connectDb = require("./utils/db")
 
 
 const corsOptions = {
-    origin: "http://localhost:5173",
+    origin: "https://jobsearch-frontend-o.onrender.com",
     methods: "GET, POST, PUT ,DELETE, PATCH, HEAD",
     Credentials: true,
 };
